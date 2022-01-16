@@ -44,7 +44,6 @@ Recommended **CSS** for ``.avatar``
   user-select: none;
 }
 ```
-![Example](https://user-images.githubusercontent.com/22887185/149675661-058f306a-d1e0-4d37-ac19-be78d0e9421f.png)
 
 ### Options
 
@@ -64,3 +63,4 @@ Recommended **CSS** for ``.avatar``
  // List of Flat UI Colors
 ["#1abc9c", "#16a085", "#f1c40f", "#f39c12", "#2ecc71", "#27ae60", "#e67e22", "#d35400", "#3498db", "#2980b9", "#e74c3c", "#c0392b", "#9b59b6", "#8e44ad", "#34495e", "#2c3e50", "#95a5a6", "#7f8c8d"]
 ```
+![random-colors](https://user-images.githubusercontent.com/22887185/149675953-aeaad157-1fef-4025-bacb-2d331f6b1e28.png)
