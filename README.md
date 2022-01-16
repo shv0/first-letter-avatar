@@ -1,5 +1,7 @@
 # first-letter-avatar
 
+Styling example
+![examples](https://user-images.githubusercontent.com/22887185/149676361-231f9208-0272-4742-9719-0a02fe638abf.png)
 
 ## Install
 
