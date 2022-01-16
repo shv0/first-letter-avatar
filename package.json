@@ -1,0 +1,16 @@
+{
+  "name": "first-letter-avatar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shv0/first-letter-avatar.git"
+  },
+  "author": "Vitali Shevchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shv0/first-letter-avatar/issues"
+  },
+  "homepage": "https://github.com/shv0/first-letter-avatar#readme"
+}
