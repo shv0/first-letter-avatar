@@ -1,7 +1,8 @@
 {
   "name": "first-letter-avatar",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Generation of an avatar by the first letter of the user's name.",
+  "keywords": ["avatar", "avatar-generator", "first-letter-avatar"],
   "main": "index.js",
   "repository": {
     "type": "git",

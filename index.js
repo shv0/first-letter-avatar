@@ -34,9 +34,7 @@ class FirstLetterAvatar {
 
                 // apply styles to elements
                 if (this.backgroundColor === "random") {
-                    randomColor = Math.round(
-                        0 + Math.random() * (listOfColors.length - 1 - 0)
-                    );
+                    randomColor = Math.round(Math.random() * (listOfColors.length - 1));
                     this.userAvatar[i].style.backgroundColor =
                         listOfColors[randomColor];
                 } else {
